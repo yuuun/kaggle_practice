@@ -1,0 +1,4 @@
+.DS_Store
+*.csv
+Santander_product_recommendation/data/
+.ipynb_checkpoints/
